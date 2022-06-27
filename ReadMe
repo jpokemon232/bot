@@ -7,6 +7,7 @@ the setup:
 - go into encrypted-code-link where my encrypted code is stored (a drive link)
 
 the reason that I use a encrypted file is. This is the file that the bot lies in. So main.exe is a loader that loads this encryped code
+also github has a limit of 25 MB and the code is 26 MB :)
 
 - download the encrypted code and put it all in 1 directory.
 - go into the .env file and spectate it as a text file.
