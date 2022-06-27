@@ -4,4 +4,15 @@ I have jumpt through some hoops to get the bot working. but I hope that it also 
 
 the setup:
 - download the code 
-- go 
+- go into encrypted-code-link where my encrypted code is stored (a drive link)
+
+the reason that I use a encrypted file is. This is the file that the bot lies in. So main.exe is a loader that loads this encryped code
+
+- download the encrypted code and put it all in 1 directory.
+- go into the .env file and spectate it as a text file.
+- find your discord ID, and FTX token / secret and put it in this file
+- If you are using a alt account in FTX than change SA_NAME to the name of your alt-account
+- TP_PERCENTALE is the distribution between the TP's. normally it is [0.2,0.2,0.2,0.2] ==> [tp1,tp2,tp3,tp4]. Here the distribution is 20%. TP5 can't be changed because it always sells / buys (which side you are on) all the futures
+  you can also change the TP's if you want to sell all at TP1 ==> [1,0,0,0]. 
+- execute the main.exe file and the bot will work
+- if the programm doesn't work. DM me or send a message in #support
